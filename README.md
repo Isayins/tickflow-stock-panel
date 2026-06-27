@@ -350,6 +350,11 @@ DATA_DIR=./data       # Parquet / DuckDB 数据存储目录
 - [docs/strategy-guide.md](./docs/strategy-guide.md) —— 策略开发指南(AI 生成器与手写策略的规范)
 - [docs/](./docs) —— 策略构建步骤、示例
 
+## 🧾 协作约定
+
+- 打开或编辑 Markdown(`.md`)文件时统一使用 UTF-8 编码。
+- 每完成一个可验证的小版本修改后,都需要在本地 Git 提交一次。
+
 ---
 
 ## 🤝 贡献
